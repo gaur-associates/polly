@@ -1,0 +1,15 @@
+retryCache/.vscode/*
+
+retryCache/bin/*
+retryCache/obj/*
+
+
+circuitBreaker/.vscode/*
+
+circuitBreaker/bin/*
+circuitBreaker/obj/*
+
+bulkhead/.vscode/*
+
+bulkhead/bin/*
+bulkhead/obj/*
